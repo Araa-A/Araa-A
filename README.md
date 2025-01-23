@@ -8,7 +8,7 @@
 - 🌱 **I’m currently learning:** about transistors
 - 💬 **Ask me about:** fractals, quarks and the aurora borealis 
 - 👯 **I’m looking to collaborate on:** small game development projects
-- ⚡ **Hobbies:** hunting comic variants, film & literature analysis, arkham games, macaroni, rollerblading
+- ⚡ **Hobbies:** hunting comic variants, literature & film analysis, arkham games, macaroni, rollerblading
   
 ---
 

@@ -14,6 +14,8 @@
 
 <a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=gotham" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=gotham" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araa-A&hide=jupyternotebook,vue)
+
 <!--
 **Araa-A/Araa-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
